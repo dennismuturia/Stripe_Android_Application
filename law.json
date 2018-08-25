@@ -1,0 +1,172 @@
+{
+    "law":[
+            {+
+            "business":{
+                "procedureofregistrationofcompany":[
+                    "You write a letter to the registrar to reserve your desired namewhich may be accepted or rejected basing on similarly named business or offending the rules on name reservation",
+                    "Preparation of memorandum and article of association of nominal capital",
+                    " These documents describe the objectives, rules, subscribers and authorised share capital of your company They are prepared by an advocate",
+                    "Payment of Stamp duty",
+                    "Filling of office form 201 that notes the address of companyand to be signed by one director or the company secretary ",
+                    "Fill a form 203 that lists all the directors and secretary of the company",
+                    "Get a commissioner of oath to sign the compliance form 208 on your behalf",
+                    "You then need to file your documents at Companies Registry and pay the registration fee",
+                    "Get a company seal that embosses your company name on documents and is used as a signature of the company",
+                    "RegisterYour personal ID, VAT and PAYE with KRA Register NHIF, NSSF and business premises license"
+                ],
+                "licencingofpremisesandtrades":[
+                    "Business permits shall not be issued for businesses being carried out in a building where land and ground rent are owing",
+                    "The Council may issue or refuse to issue a permit",
+                    "Any person carrying out business must obtain a business permit by the 31st of March of current trading year or may be guilty or an offense",
+                    "Permit fees are payable to the Council and may be revised from time to time",
+                    "The amount of permit fees paid to the Council by charitable organizations may be exempted or reduced",
+                    "A permit may only be transferred by the holder to another person, with prior consent of the Council, accompanied by a fee which is subjected to revision",
+                    "Any person authorized by the Town Clerk may enter your premises at any time to inspect or inquire if the conditions attached to the permit are being observed Anyone who interferes shall be guilty of an offense",
+                    "Every applicant for a single business permit shall produce a certificate of proof of payment of Council rates",
+                    "If any permit contravenes any of the conditions set out under section 165 of the Local Government Act or the Council by Laws the Council may refuse to grant or renew it",
+                    "Consolidated permits will be issued to traders who conduct different businesses within the same premises",
+                    "The Council shall levy fees and charges for the use of way leaves ",
+                    "Fees and charges for quarrying shall be levied by the Council, and the person undertaking such activities will accept conditions set about reclamation reinstatement and alternative use",
+                    "A person doing kiosk business shall not sleep overnight in the business premises",
+                    "A cyber café shall be limited to a certain number of computer monitors determined by the Council depending on whether it is a small medium or large business center"
+                ]
+            },
+            "employment":{
+                "contracts":[
+                    "Contracts not to be performed within one year from the time the contract is made must be in writing",
+                    "Agreements between parties in which there are monetary considerations should be recorded in written form",
+                    "Oral contracts are permissible however an employee must be supplied with a written statement of particulars"
+                ],
+                "terminationofcontracts":[
+                    "By the employer when the employee dies before the expiration of the period of employment",
+                    "By the employer if the worker is found by medical examination to be unfit for employment Due to sickness or accident the employee becomes unable to carry out his or her work",
+                    "By the employer on the basis of misconduct of employee",
+                    "By mutual agreement between the employer and the worker "
+                ]
+            },
+            "courtprocess":{
+                "trial":[
+
+                ]
+            },
+            "marriages":{
+                "bloodrelationmarriages":[
+                    "Marriages between aunts cousins nephews uncles parents sisters brothersis strictly forbidden",
+                    "A person cannot marry from a person they have adopted or they have been adopted with",
+                    "Half-blood relations is a bar to marriage(Is a hinderance)",
+                    "Marriage amongst cousins professing Islamic faith not forbidden (Marriage ACT Sec 10(4))"
+                ],
+                "voidmarriages":[
+                    "If both of the partners are already married then it is a void maariage",
+                    "If consent parties not been freely either by the influence of fraud coercion mental disorder influence of drugs intoxication",
+                    "If the parties are mistaken about the identity of the other party",
+                    "If the parties permit knowingly and willfully an unqualified person to celebrate the union",
+                    "If either party is not absent in the ceremony",
+                    "If the court declares that marriage as void",
+                    "If parties are within the prohibited marriage relationship"
+                ],
+                "voidablemarriages":[
+                    "At date of marriage either party was and has remained incapable of consummating",
+                    "Recurrent attacks of insanity",
+                    "Notice of objection not yet withdrawn",
+                    "Failure to register the marriage"                    
+                ],
+                "spousesandthelawoftort":[
+                    "Each spouse bears same liability in tort to other spouse as if they were not married",
+                    "Spouses may claim from negligent acts or omissions as well as breach of duty which causes loss of companionship"
+                ],
+                "ineedabreak":[
+                    "Parties to civil marriages  can agree to live apart for one year",
+                    "Agreement to live apart valid and enforceable and must be filed in court",
+                    "Court can vary or set aside the agreement where circumstances have changed materially since signing",
+                    "Parties may apply for court to determine status of the marriage at expiry of the year"
+                ],
+                "widower":[
+                    "May decide to marry or stay un-married"
+                ],
+                "durationofmarriage":[
+                    "Death",
+                    "Annulment of divorce",
+                    "court declares the presumption of death of a spouse"
+                ],
+                "christianmarriages":[
+                    {
+                        "requirements":[
+                            "Submission of a document giving notice on intention of a marriage",
+                            "The documents include: Original copies of Identity cards, 2 X 2 inches colored passport and Divorce decree"
+                        ],
+                        "registryandcost":[
+                            "Payment of KSH600 is paid for the application in Sheria house for the Notice of intention to marry form",
+                            "The form must be filled before 21 days",
+                            "The form is returned to the Sheria House and the location of the mariiage is stated and complete the swon affidavit",
+                            "his affidavit is valid for 3 months",
+                            "If you are planning a church wedding, then the office of the Registrar will provide you with a Registrar’s Certificate, at a cost of Ksh 800, which you must take to the officiating minister"
+                        ],
+                        "marriageage":[
+                            "The minimum marriage age is 21years",
+                            "Unless there is a parental consent, the girl can be married at the age of 16 and the boy at the age of 18"
+                        ],
+                        "ceremony":[
+                            "An authorized officiant preceeds the marriage before signing the certificate"
+                        ],
+                        "witnesses":[
+                            "There should be atleast 2 witnesses at least of age 21 on signing of the certificate"
+                        ],
+                        "marriagecertificate":[
+                            "The bride, groom, two witnesses and the minister or civil officer officiating the wedding will be required to sign the marriage certificate and it’s duplicate",
+                            " The officiating minister or officer is then required to present the duplicate to the office of Registrar of Marriages within seven days after the wedding ceremony"
+                        ]
+                    }
+                ],
+                "muslimmarriage":[
+                    {
+                        "essentialfeatures":[
+                            "The terms of a marriage contract may be altered within legal limits to suit individual cases",
+                            "There isa provision of breach of marriage contract Altyhough discouraged by Quran",
+                            "A Muslim marriage requires proposal (Ijab) from one party and acceptance (Qubul) from the other as is required for a contract",
+                            "Moreover there can be no marriage without free consent",
+                            
+                            "The terms of a marriage contract may also be altered within legal limits to suit individual cases"
+                        ],
+                        "requirementsformarriage":[
+                            "competent parties",
+                            "No legal disabilities",
+                            "A proposal(Ijab) and an acceptance(Qubul)"
+                        ],
+                        "procedureofmarriage":[
+                            "One party has to make an offer(Ijab) And the other party must accept(Qubul)",
+                            "It is necessary that a man or someone on his behalf, as well as the other party agree to the marriage at one meeting witnessed by two adults",
+                            "The Words conveying proposal and acceptance must be uttered in each other's presence or in the presence of their agents, who are called Vakil's",
+                            "The other condition for a valid marriage is that the transaction must be completed at one meeting",
+                            "The acceptance must not be conditional"
+                        ]
+                    }
+                ],
+                "hindumarriage":[
+                    {
+                        "conditions":[
+                            "Neither party has a spouse living at the time of the marriage",
+                            "Both parties are of sound mind at the time of the marriage",
+                            "The bridegroom has attained the age of eighteen years and the bride the age of sixteen years at the time of the marriage",
+                            "Where the bride has not attained the age of eighteen years with the consent of her gurdian"
+                        ],
+                        "ceremony":[
+                            "A marriage is conducted in accordance tocustomary rights and ceremony",
+                            "Where  such  rites  and  ceremonies  include  the (Saptapadi)",
+                            "ie: Taking of seven steps by the bridegroom and the bride jointly before the sacred fire, THen they are joined",
+                            "The marriage is solemnized in the form of Anand Karaj",
+                            "The going round the Granth Sahib by the bride and bridegroom together"
+                             
+                        ],
+                        "groundfordivorce":[
+                            "A partner ever since the marriage has commited adultry",
+                            "A paertner deserted the a respodent in a period of 3 years",
+                            "The respodent is of unsound mind and has been on continous treatment for 5 years preceeding the petition process",
+                            "The respodent has ceased to be hindu"
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
